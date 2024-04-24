@@ -44,5 +44,6 @@ I'm Kevin Kuc, a passionate data scientist with a background in mechanical engin
 
 ## Connect with Me
 - Email: kkuc234@gmail.com
+- Linkedin: www.linkedin.com/in/kevin-kuc
 
 Feel free to explore my repositories and reach out to connect or collaborate on projects. Thanks for visiting!
