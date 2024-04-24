@@ -28,10 +28,8 @@ NeuralRunner is my portfolio website built using HTML, CSS, and JavaScript. It s
 
 This project aims to develop a machine learning model to predict loan status based on various features provided by Lending Club, a peer-to-peer lending company. The model classifies whether a loan will be fully paid or charged off.
 
-### Manufacturing Engineering
-- Implemented manufacturing improvements at Thermo Fisher and Tesla, increasing yield and reducing waste.
-- Conducted Process Failure Mode Effects Analysis (PFMEA) and Root Cause Analysis (RCA) to enhance manufacturing processes.
-- Developed an artificial intelligence resume generator for career progression within the military.
+### lla to ecef conversion Project
+The lla_ecef_coding_challenge script is a Python tool designed for calculating and interpolating Earth-Centered, Earth-Fixed (ECEF) velocities based on latitude, longitude, altitude (LLA) data provided in a CSV file. It offers functions to convert LLA coordinates to ECEF coordinates and compute velocities at specified target times. This tool is essential for geospatial applications requiring accurate positioning and velocity information.
 
 ## Skills
 - Proficient in Python, R, SQL
