@@ -20,15 +20,13 @@ Here are some ideas to get you started:
 I'm Kevin Kuc, a passionate data scientist with a background in mechanical engineering and experience in military intelligence. I'm currently pursuing a Master's degree in Data Science at the University of California, Berkeley. My diverse background has equipped me with a unique skill set that combines technical expertise with leadership and problem-solving abilities.
 
 ## Projects
-### SolidWorks Design Consultancy
-- Founded and operated a successful SolidWorks design consultancy, collaborating with companies specializing in fire suppression systems and outdoor sporting equipment.
-- Managed a small team and oversaw design projects from concept to completion, supporting product manufacturing and catalog presentation.
+### NeuralRunner - Portfolio Website
 
-### Military Intelligence and Leadership
-- Led a specialized military team in producing and analyzing intelligence briefings for strategic decision-making.
-- Advised high-ranking military officials on global geopolitical conflicts, aiding in deployment strategies and resource allocation.
-- Managed security clearance processes and developed security access procedures.
-- Expanded Small Unmanned Aerial System (SUAS) program training by 400% to enhance operational capabilities.
+NeuralRunner is my portfolio website built using HTML, CSS, and JavaScript. It serves as a showcase of my projects, skills, and experience in the field of data science and engineering.
+
+### Loan Status Prediction with Machine Learning
+
+This project aims to develop a machine learning model to predict loan status based on various features provided by Lending Club, a peer-to-peer lending company. The model classifies whether a loan will be fully paid or charged off.
 
 ### Manufacturing Engineering
 - Implemented manufacturing improvements at Thermo Fisher and Tesla, increasing yield and reducing waste.
