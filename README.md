@@ -40,6 +40,6 @@ The lla_ecef_coding_challenge script is a Python tool designed for calculating a
 
 ## Connect with Me
 - 📧 kkuc234@gmail.com
-- Linkedin: www.linkedin.com/in/kevin-kuc
+- Linkedin: www.linkedin.com/in/kevinkuc
 
 🏄 Feel free to explore my repositories and reach out to connect or collaborate on projects. Thanks for visiting!
