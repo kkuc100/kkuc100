@@ -16,9 +16,6 @@ Here are some ideas to get you started:
 -->
 # Welcome to Kevin Kuc's GitHub Profile! 👋 👋 👋
 
-## 📚 About Me
-I'm Kevin Kuc, with a Master's in Data Science from UC Berkeley and a strong foundation in mechanical engineering, I merge deep technical expertise with impactful data-driven solutions. During my graduate studies, I engineered advanced machine learning algorithms for diverse applications, notably healthcare and finance. Key projects include designing a predictive model for hospital readmissions among diabetic patients and developing a risk assessment tool for loan defaults at LendingClub. My professional experience spans leading-edge work in AI and data science, including optimizing CNN-based models for real-time aircraft classification and deploying Python-based deep learning applications for the Space Development Agency (SDA). I am proficient in Python, SQL, React, and cloud services like AWS and GCP. Passionate about leveraging machine learning and software development to drive innovation, I’m eager to collaborate and deliver solutions that matter.
-
 ## Projects
 ### 🚀 NeuralRunner - Portfolio Website
 
@@ -40,6 +37,5 @@ The lla_ecef_coding_challenge script is a Python tool designed for calculating a
 
 ## Connect with Me
 - 📧 kkuc234@gmail.com
-- Linkedin: www.linkedin.com/in/kevinkuc
 
 🏄 Feel free to explore my repositories and reach out to connect or collaborate on projects. Thanks for visiting!
