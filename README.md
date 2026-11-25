@@ -21,7 +21,6 @@ Building production ML systems at the intersection of large language models, com
 
 - [**lla_ecef_coding_challenge**](https://github.com/kkuc100/lla_ecef_coding_challenge) – Geospatial coordinate transformations (LLA to ECEF)
 - [**lending_club_machine_learning**](https://github.com/kkuc100/lending_club_machine_learning) – Credit risk modeling with ensemble methods
-- [**real_estate_analysis**](https://github.com/kkuc100/real_estate_analysis) – Property market prediction (XGBoost, AWS SageMaker)
 - [**Yelp-Sentiment-Analysis**](https://github.com/kkuc100/Yelp-Sentiment-Analysis) – NLP sentiment classification
 - [**Portfolio**](https://github.com/kkuc100/kkuc100.github.io) – Personal website
 
